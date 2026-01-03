@@ -1,0 +1,5 @@
+ultralytics
+scikit-learn
+pyyaml
+Flask
+pytest
